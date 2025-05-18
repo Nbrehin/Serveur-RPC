@@ -1,0 +1,10 @@
+Scénario : 
+
+1.Se connecter
+2.Afficher les fruits en France en Avril
+3.Afficher la fiche de la pomme
+4.Afficher la liste des recettes
+5.Afficher la recette de Mousse au chocolat sans œufs
+6.Ajouter la recette de Mousse au chocolat sans œufs en favoris
+7.Afficher la liste des recettes en favoris
+8.Retirer la recette de Mousse en chocolat sans œufs des favoris
